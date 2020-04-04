@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-img_path: "/images/jane_roe.jpg"
+img_path: "/images/6_thumb.jpg"
 menus:
   main:
     title: About
