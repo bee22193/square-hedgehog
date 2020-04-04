@@ -5,6 +5,8 @@ menus:
     title: Contact
     weight: 5
 template: contact
----
+subtitle: ดิจิตอล
+img_path: "/images/9.jpg"
 
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+---
+สวัสดี! ขอบคุณมากที่ให้ความสนใจในการทำงานร่วมกันกรุณากรอกแบบฟอร์มการติดต่อด้านล่างหรือส่งอีเมลถึงเราที่ example@example.com
